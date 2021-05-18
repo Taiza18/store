@@ -1,4 +1,4 @@
-package org.factoria5.controllers;
+package org.factoria5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
